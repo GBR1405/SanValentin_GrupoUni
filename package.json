@@ -1,0 +1,13 @@
+{
+  "name": "mis-20-soles",
+  "version": "1.0.0",
+  "description": "Proyecto simple listo para Vercel",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
